@@ -1,6 +1,8 @@
 # Image Picker plugin for Flutter
 <?code-excerpt path-base="example/lib"?>
 
+THIS VERSION HAS FIX FOR ANDROID SINGLEINSTANCE
+
 [![pub package](https://img.shields.io/pub/v/image_picker.svg)](https://pub.dev/packages/image_picker)
 
 A Flutter plugin for iOS and Android for picking images from the image library,
